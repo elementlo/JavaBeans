@@ -1,3 +1,4 @@
+package interview;
 /**
  * InnerSingleins
  * 内部类实现多线程下单例, 即使是静态内部类, 也只会在用到的时

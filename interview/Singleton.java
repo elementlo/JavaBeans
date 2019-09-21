@@ -1,3 +1,4 @@
+package interview;
 //写一个单列模式
 // class Singleton {
 //     private static volatile Singleton singleton;
